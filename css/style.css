@@ -1,5 +1,6 @@
 body {
     -webkit-font-smoothing: antialiased;
+    background-color: #f0f0f0;
 }
 .horizon10 {
     position: absolute;
